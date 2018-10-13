@@ -1,0 +1,7 @@
+C:\Users\Rafae\source\repos\SegundoMaiorValor\SegundoMaiorValor\bin\Debug\SegundoMaiorValor.exe.config
+C:\Users\Rafae\source\repos\SegundoMaiorValor\SegundoMaiorValor\bin\Debug\SegundoMaiorValor.exe
+C:\Users\Rafae\source\repos\SegundoMaiorValor\SegundoMaiorValor\bin\Debug\SegundoMaiorValor.pdb
+C:\Users\Rafae\source\repos\SegundoMaiorValor\SegundoMaiorValor\obj\Debug\SegundoMaiorValor.csproj.CoreCompileInputs.cache
+C:\Users\Rafae\source\repos\SegundoMaiorValor\SegundoMaiorValor\obj\Debug\SegundoMaiorValor.exe
+C:\Users\Rafae\source\repos\SegundoMaiorValor\SegundoMaiorValor\obj\Debug\SegundoMaiorValor.pdb
+C:\Users\Rafae\source\repos\SegundoMaiorValor\SegundoMaiorValor\obj\Debug\SegundoMaiorValor.csprojAssemblyReference.cache

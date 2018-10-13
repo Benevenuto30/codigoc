@@ -1,0 +1,7 @@
+c:\users\rafae\source\repos\ArrayOrdenado\ArrayOrdenado\bin\Debug\ArrayOrdenado.exe.config
+c:\users\rafae\source\repos\ArrayOrdenado\ArrayOrdenado\bin\Debug\ArrayOrdenado.exe
+c:\users\rafae\source\repos\ArrayOrdenado\ArrayOrdenado\bin\Debug\ArrayOrdenado.pdb
+c:\users\rafae\source\repos\ArrayOrdenado\ArrayOrdenado\obj\Debug\ArrayOrdenado.csprojAssemblyReference.cache
+c:\users\rafae\source\repos\ArrayOrdenado\ArrayOrdenado\obj\Debug\ArrayOrdenado.csproj.CoreCompileInputs.cache
+c:\users\rafae\source\repos\ArrayOrdenado\ArrayOrdenado\obj\Debug\ArrayOrdenado.exe
+c:\users\rafae\source\repos\ArrayOrdenado\ArrayOrdenado\obj\Debug\ArrayOrdenado.pdb
